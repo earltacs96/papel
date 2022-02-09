@@ -1,0 +1,3 @@
+.container {
+  @apply block h-screen w-screen bg-slate-100;
+}
